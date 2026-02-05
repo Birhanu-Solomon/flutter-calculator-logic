@@ -17,6 +17,10 @@ A clean, responsive calculator app built with Flutter. This project focuses on l
 - How to manage complex string-based logic in Dart.
 - Implementing a dynamic `GridView` for UI elements.
 - Handling state updates within a `StatefulWidget`.
+## 📸 Screenshots
+| Home Screen | Calculation |
+| --- | --- |
+| ![Home](screenshots/mainScreen.png) | ![Result](screenshots/Addition.png) |
 
 ---
 Developed as part of my Flutter Portfolio.
