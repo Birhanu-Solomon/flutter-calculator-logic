@@ -1,16 +1,22 @@
-# calculator
+# Simple Calculator 🧮
 
-A new Flutter project.
+A clean, responsive calculator app built with Flutter. This project focuses on logic implementation and UI grid layouts.
 
-## Getting Started
+## ✨ Features
+- Basic arithmetic operations (Addition, Subtraction, Multiplication, Division).
+- Real-time expression parsing.
+- Responsive design for different screen sizes.
+- "Delete" and "Clear All" functionality.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **Packages:** `math_expressions` (for parsing string logic).
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 What I Learned
+- How to manage complex string-based logic in Dart.
+- Implementing a dynamic `GridView` for UI elements.
+- Handling state updates within a `StatefulWidget`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Developed as part of my Flutter Portfolio.
